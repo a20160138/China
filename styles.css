@@ -1,0 +1,77 @@
+body {
+  background-color: rgb(240, 120, 64);
+}
+div {
+  align-items: center;
+  margin: 10px;
+  justify-content: center;
+  display: flex;
+}
+.portada img {
+  height: 500px;
+  border: 10px rgb(238, 223, 8);
+  border-radius: 50px;
+  border-style: dashed;
+}
+.titulo p {
+  font-family: Elephant;
+  font-size: 50px;
+  color: rgb(71, 15, 15);
+}
+.titulo-introducción p {
+  font-family: Elephant;
+  font-size: 45px;
+  color: rgb(71, 15, 15);
+}
+.texto-introducción p {
+  font-family: Forte;
+  font-size: 25px;
+  color: black;
+  margin: 60px;
+  text-align: justify;
+}
+.texto-introducción img {
+  height: 450px;
+  margin: 30px;
+  border: 10px rgb(255, 0, 0);
+  border-radius: 50px;
+  border-style: dashed;
+}
+.titulo-cuerpo p {
+  font-family: Elephant;
+  font-size: 45px;
+  color: rgb(71, 15, 15);
+}
+.texto-cuerpo p {
+  font-family: Forte;
+  font-size: 20px;
+  color: black;
+  margin: 60px;
+  text-align: justify;
+}
+.texto-cuerpo img {
+  height: 250px;
+  margin: 8px;
+  border: 10px rgb(19, 165, 26);
+  border-radius: 50px;
+  border-style: dashed;
+}
+.titulo-conclusión p {
+  font-family: Elephant;
+  font-size: 45px;
+  color: rgb(71, 15, 15);
+}
+.texto-conclusión p {
+  font-family: Forte;
+  font-size: 35px;
+  color: black;
+  margin: 60px;
+  text-align: justify;
+}
+.texto-conclusión img {
+  height: 450px;
+  margin: 8px;
+  border: 10px rgb(0, 162, 255);
+  border-radius: 50px;
+  border-style: dashed;
+}
